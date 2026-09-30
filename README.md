@@ -36,6 +36,7 @@
    * Membuat database SQL Server LocalDB baru bernama **StudentDB** pada instance server (localdb)\MSSQLLocalDB.
    * Membuat tabel **Mahasiswa** dengan T-SQL script yang terdiri dari kolom: Nim (Primary Key), Nama, TanggalLahir, NoTelp, Alamat, Prodi, dan JenisKelamin.
    * Menginstal paket driver database **Microsoft.Data.SqlClient** melalui **NuGet Package Manager**.
+     
 <img width="780" height="434" alt="image" src="https://github.com/user-attachments/assets/76c7e48f-f9a4-4f7c-9934-ce3d90b01a35" />
 
 

@@ -37,10 +37,11 @@
    * Membuat tabel **Mahasiswa** dengan T-SQL script yang terdiri dari kolom: Nim (Primary Key), Nama, TanggalLahir, NoTelp, Alamat, Prodi, dan JenisKelamin.
    * Menginstal paket driver database **Microsoft.Data.SqlClient** melalui **NuGet Package Manager**.
      
-<img width="780" height="434" alt="image" src="https://github.com/user-attachments/assets/76c7e48f-f9a4-4f7c-9934-ce3d90b01a35" />
+<img width="780" height="434" alt="image" src="https://github.com/user-attachments/assets/76c7e48f-f9a4-4f7c-9934-ce3d90b01a35" /><br>
 
 
 4. **Menghubungkan UI dengan Kode C# & Database (MainWindow.xaml.cs)**:
+   <br>
    * Menyiapkan *connection string* ke instance SQL Server LocalDB.
    * **READ**: Memuat data dari tabel Mahasiswa saat aplikasi dibuka melalui method LoadDataFromDatabase() dan menampilkannya di ListBox.
    * **CREATE / UPDATE**: Menulis penanganan event BtnSimpan_Click dengan validasi form lengkap untuk menambah data baru (INSERT INTO) atau memperbarui data lama (UPDATE).

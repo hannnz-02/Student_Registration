@@ -27,7 +27,9 @@
    * Menambahkan kontrol komponen input: `TextBox` (NIM, Nama, No Telp, Alamat), `DatePicker` (Tanggal Lahir), `ComboBox` (Program Studi), `RadioButton` (Jenis Kelamin), `Button` (Simpan, Edit, Hapus, Reset), dan `ListBox` (menampilkan daftar pendaftar).
    * Mengintegrasikan library **FontAwesome.WPF** untuk penambahan ikon-ikon visual pada tombol dan header.
 
-<img width="775" height="516" alt="image" src="https://github.com/user-attachments/assets/382327d0-a7f0-435f-9814-51194dfaff20" />
+<img width="775" height="516" alt="image" src="https://github.com/user-attachments/assets/382327d0-a7f0-435f-9814-51194dfaff20" /><br>
+<img width="780" height="514" alt="image" src="https://github.com/user-attachments/assets/3910b854-8ce8-4825-a109-896d398e6998" />
+
 
 3. **Membuat dan Menghubungkan Database (SQL Server LocalDB)**:
    * Membuka jendela **Server Explorer** di Visual Studio (`View` > `Server Explorer`).

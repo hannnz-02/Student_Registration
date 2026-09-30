@@ -23,7 +23,7 @@
    * Terdapat beberapa file bawaan template WPF, di mana file utama yang diedit adalah **MainWindow.xaml** (desain antarmuka UI) dan **MainWindow.xaml.cs** (logika program/code-behind).
 
 2. **Merancang UI (MainWindow.xaml)**:
-   * Membagi *layout* utama menjadi 2 kolom menggunakan Grid (sisi kiri untuk formulir input pendaftaran, sisi kanan untuk daftar pendaftar & pencarian).
+   * Membagi layout utama menjadi 2 kolom menggunakan Grid (sisi kiri untuk formulir input pendaftaran, sisi kanan untuk daftar pendaftar & pencarian).
    * Menambahkan kontrol komponen input: TextBox (NIM, Nama, No Telp, Alamat), DatePicker (Tanggal Lahir), ComboBox (Program Studi), RadioButton (Jenis Kelamin), Button (Simpan, Edit, Hapus, Reset), dan ListBox (menampilkan daftar pendaftar).
    * Mengintegrasikan library **FontAwesome.WPF** untuk penambahan ikon-ikon visual pada tombol dan header.
 
